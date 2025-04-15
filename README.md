@@ -40,15 +40,15 @@ A comprehensive mobile application for student verification using ID cards and f
 
 1. Install Python dependencies:
 
-   npm install expo-build-properties --legacy-peer-deps
-   npm install expo@latest
-   pip install tf-keras
-   pip install deepface
-   pip install --upgrade tensorflow
-   npm install react-native-animatable --legacy-peer-deps
-   pip install fastapi uvicorn deepface opencv-python numpy python-multipart
+    npm install expo-build-properties --legacy-peer-deps
+    npm install expo@latest
+    pip install tf-keras
+    pip install deepface
+    pip install --upgrade tensorflow
+    npm install react-native-animatable --legacy-peer-deps
+    pip install fastapi uvicorn deepface opencv-python numpy python-multipart
    
-3. Run the backend server:
+2. Run the backend server:
    uvicorn main:app --host  <Your IPv4 Address>  --port 5000 --reload
 
 ### Configuration
