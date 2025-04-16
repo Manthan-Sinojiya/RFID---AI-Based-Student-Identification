@@ -31,7 +31,7 @@ A comprehensive mobile application for student verification using ID cards and f
 ### Prerequisites
 
 - Node.js (v14+)
-- Python (3.7+)
+- Python (3.10)
 - React Native development environment
 - Expo CLI (optional)
 - Android/iOS simulator or physical device
