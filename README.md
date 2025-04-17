@@ -47,6 +47,7 @@ A comprehensive mobile application for student verification using ID cards and f
     - pip install --upgrade tensorflow
     - npm install react-native-animatable --legacy-peer-deps
     - pip install fastapi uvicorn deepface opencv-python numpy python-multipart
+    - pip install fastapi uvicorn deepface opencv-python numpy
    
 2. Run the backend server:
    uvicorn main:app --host  <Your IPv4 Address>  --port 5000 --reload
