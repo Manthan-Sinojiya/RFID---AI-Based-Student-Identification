@@ -15,8 +15,8 @@ import { StatusBar } from 'expo-status-bar';
 import * as Animatable from 'react-native-animatable';
 import FaceVerification from './FaceVerification.tsx';
 
-// const API_BASE_URL = 'https://app.sc/api1/api/ForDevice';
-const API_BASE_URL = 'https://app.utu.ac.in/UTUApi/api/ForDevice'; 
+// replace this Url with Original Url
+const API_BASE_URL = 'https://app.sc/api1/api/ForDevice';
 
 export default function MainApp() {
   // Device registration state
